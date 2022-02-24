@@ -1,0 +1,6 @@
+name: BetterGrimDebug
+version: '${project.version}'
+main: ac.grim.bettergrimdebug.BetterGrimDebug
+api-version: 1.13
+depend:
+  - GrimAC
